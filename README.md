@@ -48,7 +48,9 @@ import pandas as pd
 df=pd.read_csv("Encoding Data.csv") 
 df
 ```
-<img width="455" height="375" alt="image" src="https://github.com/user-attachments/assets/e5435f2f-3d9d-43a1-bb1b-cc9fe7cba01c" />
+<img width="565" height="463" alt="Screenshot 2026-11-24 081122" src="https://github.com/user-attachments/assets/2decb6b3-04e0-44dd-83a8-828e109d1e32" />
+
+
 
 
 ```
